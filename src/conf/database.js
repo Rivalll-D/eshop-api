@@ -28,4 +28,4 @@ class database {
 
   
 
-  module.exports = database;
+  module.exports = Database;
